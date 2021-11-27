@@ -1,13 +1,9 @@
-## Running React on Repl.it
+## Frontend integration with Phantom Wallet and Solana Program
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+[Solana](https://solana.com/) is a popular decentralized blockchain using Proof-of-History.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+[Phantom Wallet](https://phantom.app/) is the best wallet UI/UX for carrying out transactions on solana. 
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+### Learning about Solana
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+This prototype uses Solana programs (smart contracts) and how to transact with accounts. The UI lets user store a collection of GIFs on the blockchain.
